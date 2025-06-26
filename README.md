@@ -20,3 +20,10 @@ struct Leticia {
     let paixoes = ["SwiftUI 🧚", "Jogos narrativos 🎮", "Interações intuitivas 🪄", "Problemas de lógica 🔍"]
     var aprendendo = ["Swift", "C++", "CloudKit", "UI/UX"]
 }
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=swift,cpp,python,git,figma,vscode,github,xcode&theme=light"/> </p>
+
