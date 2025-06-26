@@ -38,7 +38,7 @@ struct Leticia {
 
 ## 📬 Onde me encontrar
 
-<p align="center"> <a href="https://www.linkedin.com/in/leticia-andrade/"><img src="https://img.shields.io/badge/LinkedIn-Letícia%20Andrade-blue?style=flat&logo=linkedin"></a> <a href="mailto:seu-email@email.com"><img src="https://img.shields.io/badge/E--mail-Fale%20comigo!-red?style=flat&logo=gmail"></a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/letícia-andrade-11a597230/"><img src="https://img.shields.io/badge/LinkedIn-Letícia%20Andrade-blue?style=flat&logo=linkedin"></a> <a href="mailto:seu-email@email.com"><img src="https://img.shields.io/badge/E--mail-Fale%20comigo!-red?style=flat&logo=gmail"></a> </p>
 
 ---
 
