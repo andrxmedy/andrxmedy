@@ -1,4 +1,4 @@
-<h1 align="center">🌟 Oi, eu sou a Letícia! 🌟</h1>
+<h1 align="center">🌟 Oi, eu sou Letícia! 🌟</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedora+criativa;Amante+de+tecnologia+e+design;Sempre+aprendendo+coisas+novas!&center=true&width=380&height=45">
