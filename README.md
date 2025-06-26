@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/BrunaVeigaCL"><img src="https://img.shields.io/github/followers/BrunaVeigaCL?label=Follow&style=social"></a>
-  <img src="https://komarev.com/ghpvc/?username=BrunaVeigaCL&style=flat-square&color=blue" alt="profile views"/>
+  <a href="https://github.com/andrxmedy"><img src="https://img.shields.io/github/followers/andrxmedy?label=Follow&style=social"></a>
+  <img src="https://komarev.com/ghpvc/?username=andrxmedy&style=flat-square&color=blue" alt="profile views"/>
 </p>
 
 ---
